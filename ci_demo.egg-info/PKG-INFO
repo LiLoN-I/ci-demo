@@ -1,0 +1,6 @@
+Metadata-Version: 2.4
+Name: ci_demo
+Version: 1.0.0
+Summary: Учебный проект ci-demo
+Author: LiLoN-I
+Requires-Python: >=3.8
